@@ -1,0 +1,28 @@
+.titulo {
+    color: #070303;
+    text-align: center;
+    font-size: 5em;
+    font-family: "Comitat", sans-serif;
+    font-weight: bold;
+  }
+  
+.body {
+background-color: aqua;
+}
+
+  .subtitulo {
+    text-align: center;
+    padding: 45px;
+    margin: 45px;
+  }
+  
+  #sedes {
+    
+    
+    
+    
+    border: 5px solid #262c2b;
+    padding: 5px;
+    
+    background-color: #63b5ae;
+  }
